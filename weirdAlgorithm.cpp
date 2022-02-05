@@ -21,4 +21,5 @@ int main(){
     //cout<<n<<" ";
   }
   cout<<count;
+  return 0;
 }
